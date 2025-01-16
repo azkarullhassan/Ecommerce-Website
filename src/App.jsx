@@ -1,8 +1,9 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
-import AOS from "aos";
-import "aos/dist/aos.css";
+import AOS from 'aos';
+import 'aos/dist/aos.css';  // Import the AOS styles
+
 import Products from "./Components/Products/Products";
 import TopProducts from "./Components/TopProducts/TopProducts";
 import Banner from "./components/Banner/Banner";
